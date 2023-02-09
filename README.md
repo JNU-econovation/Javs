@@ -42,5 +42,5 @@
 | :------: | :---------------------------------------------: |
 |  영규  |   [pyg410](https://github.com/pyg410)   |
 |   종준   | [belljun3395](https://github.com/belljun3395) |
-|    지민    |     [jiminkkk](https://github.com/jminkkk)     |
+|    지민    |     [jminkkk](https://github.com/jminkkk)     |
 |   수민   |      [kssumin](https://github.com/kssumin)      |
