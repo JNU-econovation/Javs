@@ -52,5 +52,7 @@
 |  영규  |   [pyg410](https://github.com/pyg410)   |
 |    지민    |     [jminkkk](https://github.com/jminkkk)     |
 |   수민   |      [kssumin](https://github.com/kssumin)      |
+
 | 스터디멘토 |                  Github 프로필                  |
+| :------: | :---------------------------------------------: |
 |   종준   | [belljun3395](https://github.com/belljun3395) |
