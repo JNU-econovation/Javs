@@ -1,24 +1,26 @@
 # 2023 Java Study(Javs)
 
 <div align="center">
-  <img src="./javs.png" alt="Java Study Cover" width="300">
+  <img src="./EffectiveJava/effectiveJava.jpeg" alt="Effective Java Book Cover" width="300">
 </div>
 
 ## 🗓 Plans
 
-2023.02.17(금) ~ (매주 금요일 19:00)
-| 책 |                  진행 기간                  |
-| :------: | :---------------------------------------------: |
-|  [모던 자바 인 액션](./ModernJavaInAction/README.md)  |   23.02.17 - 23.05.18   |
-|    [이팩티브 자바](./EffectiveJava/README.md)    |     23.05.18 -      |
+2023.05.18(목) ~ (매주 목요일 21:00)
 
-## 🤝 Study Purpose
+1. 각 스터디 참가자는 매주 1챕터를 읽어온다.
+2. 각 스터디 참가자는 매주 **수요일 24시까지** 해당 챕터와 관련된 문제를 1개 이상 선정하여 이슈로 등록한다.
+3. 매주 **목요일 21시부터 22시까지**에 정기 모임을 가지며, 이슈로 등록된 문제들에 대해 토론하는 시간을 가진다.
+4. 각 스터디원은 그 다음주 **수요일 24시 까지** 본인이 담당한 이슈에 대한 답변을 정리하여 등록한다.
+5. 회의에 관한 세부사항은 Rule Details를 참고한다.
 
-> 선택한 책의 빠른 1회독.
+## 🤝 Rule Details
 
-> 책을 읽으며 어떤 상황에 어떻게 사용할 것인지의 기준 정립.
-
-
+1. 발표자는 챕터와 관련된 주제를 5~15분 내로 발표한다.
+2. 발표와 관련된 질의응답시간을 갖는다.
+3. 각 이슈를 등록한 스터디원이 발표한다.
+4. 발표한 이슈에 대해 5~15분 토론한다.
+5. 스터디에 대한 피드백을 받는다.
 
 ## 📌 Issue
 
@@ -41,15 +43,15 @@
 
 ## 🚀 Goals
 
-`모던 자바 인 액션` 빠른 1회독을 목표로 한다.
+`이펙티브 자` 빠른 1회독을 목표로 한다.
 
 ## 🙋🏻‍♂️ Participants
 
 | 스터디원 |                  Github 프로필                  |
 | :------: | :---------------------------------------------: |
 |  영규  |   [pyg410](https://github.com/pyg410)   |
-|    지민    |     [jminkkk](https://github.com/jminkkk)     |
 |   수민   |      [kssumin](https://github.com/kssumin)      |
 | 도연 | [capDoYeonLee](https://github.com/capDoYeonLee) |
 | 대선 | [hwangdaesun](https://github.com/hwangdaesun) | 
 | 진혁 | [LJH098](https://github.com/LJH098) |
+
