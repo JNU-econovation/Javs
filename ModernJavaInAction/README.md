@@ -1,12 +1,12 @@
 # 2023 Java Study(Javs)
 
 <div align="center">
-  <img src="./modern-java-in-action-book-cover.png" alt="Modern Java in Action Book Cover" width="300">
+  <img src="./ModernJavaInAction/modern-java-in-action-book-cover.png" alt="Modern Java in Action Book Cover" width="300">
 </div>
 
 ## 🗓 Plans
 
-2023.02.17(금) ~ (매주 금요일 19:00)
+2023.02.17(금) ~ 2023.05.18(목)(매주 금요일 19:00)
 
 1. 각 스터디 참가자는 매주 2챕터를 읽어온다.
 2. 각 스터디 참가자는 매주 **목요일 24시까지** 해당 챕터와 관련된 문제를 1개 이상 선정하여 이슈로 등록한다.
