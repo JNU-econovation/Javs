@@ -1,4 +1,4 @@
-# 2023 Java Study(Javs)
+# 2024 Java Study(Javs)
 
 <div align="center">
   <img src="./javs.png" alt="Java Study Cover" width="300">
@@ -6,11 +6,10 @@
 
 ## 🗓 Plans
 
-2023.02.17(금) ~ (매주 금요일 19:00)
+2024.02.07(수) ~ (매주 수요일 20:00)
 | 책 |                  진행 기간                  | 모임 일정 |
 | :------: | :---------------------------------------------: | :------:|
-|  [모던 자바 인 액션](./ModernJavaInAction/README.md)  |   23.02.17 - 23.05.18   | 매 주 금요일 19:00 |
-|    [이팩티브 자바](./EffectiveJava/README.md)    |     23.05.18 -      | 매 주 목요일 21:00 |
+|  [모던 자바 인 액션](./ModernJavaInAction/README.md)  |   24.02.07 -    | 매 주 수요일 20:00 |
 
 ## 🤝 Study Purpose
 
@@ -36,7 +35,7 @@
 
 이슈 제목 형식 : `문제 제목(이름)`
 
-이슈 라벨 : ex) `이펙티브 자바`, `item52`
+이슈 라벨 : ex) `모던 자바 인 액션`, `1장`
 
 이슈 내용 형식
 1. 문제가 무엇인가?
@@ -51,9 +50,9 @@
 
 | 스터디원 |                  Github 프로필                  |
 | :------: | :---------------------------------------------: |
-|  영규  |   [pyg410](https://github.com/pyg410)   |
-|    지민    |     [jminkkk](https://github.com/jminkkk)     |
-|   수민   |      [kssumin](https://github.com/kssumin)      |
-| 도연 | [capDoYeonLee](https://github.com/capDoYeonLee) |
-| 서현 | [blackbean99](https://github.com/blackbean99) | 
+| 진혁 | [LJH098](https://github.com/LJH098) |
+| 석호 | [inferior3x](https://github.com/inferior3x) |
+| 대선 | [lja3723](https://github.com/hwangdaesun) |
 | 종민 | [rlajm1203](https://github.com/rlajm1203) |
+| 장안 | [lja3723](https://github.com/lja3723) |
+| 민주 | [MinjuKwak01](https://github.com/MinjuKwak01) |
