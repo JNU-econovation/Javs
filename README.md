@@ -52,7 +52,7 @@
 | :------: | :---------------------------------------------: |
 | 진혁 | [LJH098](https://github.com/LJH098) |
 | 석호 | [inferior3x](https://github.com/inferior3x) |
-| 대선 | [lja3723](https://github.com/hwangdaesun) |
+| 대선 | [hwangdaesun](https://github.com/hwangdaesun) |
 | 종민 | [rlajm1203](https://github.com/rlajm1203) |
 | 장안 | [lja3723](https://github.com/lja3723) |
 | 민주 | [MinjuKwak01](https://github.com/MinjuKwak01) |
