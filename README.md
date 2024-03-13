@@ -57,3 +57,4 @@
 | 도연 | [capDoYeonLee](https://github.com/capDoYeonLee) |
 | 서현 | [blackbean99](https://github.com/blackbean99) | 
 | 종민 | [rlajm1203](https://github.com/rlajm1203) |
+| 다애 | [dongE](https://github.com/dongE) |
